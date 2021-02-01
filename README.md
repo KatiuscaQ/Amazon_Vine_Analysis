@@ -1,5 +1,7 @@
-![](https://github.com/KatiuscaQ/Amazon_Vine_Analysis/blob/main/Resources/amazon-vine-voices-adlucent.png)
 # Amazon_Vine_Analysis
+
+![](https://github.com/KatiuscaQ/Amazon_Vine_Analysis/blob/main/Resources/amazon-vine-voices-adlucent.png)
+
 
 ## Overview of the analysis: 
 Analyzed an Amazon dataset of Books Reviews by using PySpark to perform an ETL process to extract the data, transform it, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next, use PySpark to determine if there is any bias toward favorable reviews from Vine members in the analyzed dataset. Then, write a summary of the analysis for Jennifer to submit to the SellBy stakeholders.
