@@ -35,6 +35,8 @@ Below a screenshot of the analysis:
 
 ![](https://github.com/KatiuscaQ/Amazon_Vine_Analysis/blob/main/Resources/count_of_vine_and_nonvine.PNG)
 
+## Additional Analysis
+
 An additional analysis performed on this dataset was to compare the results of non-vine reviews (unpaid_reviews) that were made by verified purchases and unverified purchases. Does purchase verification affect this specific dataset?
 
 Also, the ratings in between the two newly analyzed sub-groups were compared. Following are the results:
